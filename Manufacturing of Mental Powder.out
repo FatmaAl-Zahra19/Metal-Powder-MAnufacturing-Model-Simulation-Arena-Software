@@ -1,0 +1,79 @@
+
+                                      ARENA Simulation Results
+                                                Fatma
+
+                                  Summary for Replication 1 of 1
+
+Project: Manufacturing of Mental Powder                              Run execution date : 4/29/2024
+Analyst: Fatma                                                       Model revision date: 4/29/2024
+
+Replication ended at time      : 60.554578 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             1.2777     (Insuf)    .00000     5.5156         50    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         50    
+Entity 1.WaitTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         50    
+Entity 1.TotalTime                          1.2777     (Insuf)    .00000     5.5156         50    
+Entity 2.VATime                             .85092     (Insuf)    .00000     6.3633         50    
+Entity 2.NVATime                            .00000     (Insuf)    .00000     .00000         50    
+Entity 2.WaitTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 2.TranTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 2.OtherTime                          .00000     (Insuf)    .00000     .00000         50    
+Entity 2.TotalTime                          .85092     (Insuf)    .00000     6.3633         50    
+Entity 3.VATime                             1.3112     (Insuf)    .00000     5.7554         50    
+Entity 3.NVATime                            .00000     (Insuf)    .00000     .00000         50    
+Entity 3.WaitTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 3.TranTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 3.OtherTime                          .00000     (Insuf)    .00000     .00000         50    
+Entity 3.TotalTime                          1.3112     (Insuf)    .00000     5.7554         50    
+Entity 4.VATime                             1.3028     (Insuf)    .00000     5.6415         50    
+Entity 4.NVATime                            .00000     (Insuf)    .00000     .00000         50    
+Entity 4.WaitTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 4.TranTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 4.OtherTime                          .00000     (Insuf)    .00000     .00000         50    
+Entity 4.TotalTime                          1.3028     (Insuf)    .00000     5.6415         50    
+Entity 5.VATime                             1.3752     (Insuf)    .00000     5.8964         50    
+Entity 5.NVATime                            .00000     (Insuf)    .00000     .00000         50    
+Entity 5.WaitTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 5.TranTime                           .00000     (Insuf)    .00000     .00000         50    
+Entity 5.OtherTime                          .00000     (Insuf)    .00000     .00000         50    
+Entity 5.TotalTime                          1.3752     (Insuf)    .00000     5.8964         50    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                1.0550     (Insuf)    .00000     4.0000     .00000    
+Entity 2.WIP                                .70261     (Insuf)    .00000     3.0000     .00000    
+Entity 3.WIP                                1.0826     (Insuf)    .00000     5.0000     .00000    
+Entity 4.WIP                                1.0758     (Insuf)    .00000     5.0000     .00000    
+Entity 5.WIP                                1.1355     (Insuf)    .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           50.000    
+Entity 1.NumberOut                          50.000    
+Entity 2.NumberIn                           50.000    
+Entity 2.NumberOut                          50.000    
+Entity 3.NumberIn                           50.000    
+Entity 3.NumberOut                          50.000    
+Entity 4.NumberIn                           50.000    
+Entity 4.NumberOut                          50.000    
+Entity 5.NumberIn                           50.000    
+Entity 5.NumberOut                          50.000    
+System.NumberOut                            250.00    
+
+
+Simulation run time: 0.18 minutes.
+Simulation run complete.

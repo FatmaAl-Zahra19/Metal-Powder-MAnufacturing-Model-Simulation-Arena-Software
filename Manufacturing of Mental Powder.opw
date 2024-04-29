@@ -1,0 +1,26 @@
+[RESOURCES]
+[VARIABLES]
+Raw Metal Steel.NumberOut
+Workstaion Bridgecrane.NumberOut
+Sort 1.NumberOut True
+Qc department.NumberOut
+Gas and Automizing.NumberIn
+Blending Alloy Machine.NumberIn
+Sieving Powder Machine.NumberIn
+Blending Alloy Machine.NumberOut
+Sieving Powder Machine.NumberOut
+Sort 1.NumberOut False
+Stalker.NumberOut
+Sort 2.NumberOut True
+Scarp.NumberOut
+Tundish.NumberOut
+Gas and Automizing.NumberOut
+Shipment.NumberOut
+Sort 2.NumberOut False
+Packing and delivery.NumberIn
+Packing and delivery.NumberOut
+Recycle and Repair.NumberOut
+Sort 3.NumberOut True
+Gas and automizing 0.NumberIn
+Sort 3.NumberOut False
+Gas and automizing 0.NumberOut
